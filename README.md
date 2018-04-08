@@ -22,4 +22,4 @@ To run the website locally:
 ```
 npm run start
 ```
-and navigate to 'localhost:8080' in your web browser
+and navigate to 'localhost:8080' in your web browser.
